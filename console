@@ -1,0 +1,2 @@
+2021-12-23T12:11:09.845+0900	info	CustomLogger/main.go:31	Zap Start.	{"time": "2021-12-23T12:11:09.845+0900"}
+2021-12-23T12:11:26.344+0900	info	CustomLogger/main.go:31	Zap Start.	{"time": "2021-12-23T12:11:26.344+0900"}

@@ -1,0 +1,31 @@
+{"level":"info","timestamp":"2022-03-17T17:23:13.048+0900","msg":"Hello Zap!"}
+{"level":"warn","timestamp":"2022-03-17T17:23:13.049+0900","msg":"Beware of getting Zapped! (Pun)"}
+{"level":"error","timestamp":"2022-03-17T17:23:13.049+0900","msg":"I'm out of Zap joke!"}
+{"level":"info","timestamp":"2022-03-17T17:25:21.249+0900","caller":"CustomLogger/main.go:36","msg":"Hello Zap!"}
+{"level":"warn","timestamp":"2022-03-17T17:25:21.250+0900","caller":"CustomLogger/main.go:37","msg":"Beware of getting Zapped! (Pun)"}
+{"level":"error","timestamp":"2022-03-17T17:25:21.250+0900","caller":"CustomLogger/main.go:38","msg":"I'm out of Zap joke!"}
+{"level":"info","timestamp":"2022-03-17T17:25:37.250+0900","caller":"CustomLogger/main.go:35","msg":"Hello Zap!"}
+{"level":"warn","timestamp":"2022-03-17T17:25:37.251+0900","caller":"CustomLogger/main.go:36","msg":"Beware of getting Zapped! (Pun)"}
+{"level":"error","timestamp":"2022-03-17T17:25:37.251+0900","caller":"CustomLogger/main.go:37","msg":"I'm out of Zap joke!","stacktrace":"main.main\n\t/Users/imtaebin/Documents/golang/CustomLogger/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:255"}
+2022-03-17T19:24:24.038+0900	info	CustomLogger/main.go:38	Hello Zap!
+2022-03-17T19:24:24.039+0900	warn	CustomLogger/main.go:39	Beware of getting Zapped! (Pun)
+2022-03-17T19:24:24.039+0900	error	CustomLogger/main.go:40	I'm out of Zap joke!
+main.main
+	/Users/imtaebin/Documents/golang/CustomLogger/main.go:40
+runtime.main
+	/usr/local/go/src/runtime/proc.go:255
+{"level":"info","timestamp":"2022-03-17T19:25:13.149+0900","caller":"CustomLogger/main.go:37","msg":"Hello Zap!"}
+{"level":"warn","timestamp":"2022-03-17T19:25:13.150+0900","caller":"CustomLogger/main.go:38","msg":"Beware of getting Zapped! (Pun)"}
+{"level":"error","timestamp":"2022-03-17T19:25:13.150+0900","caller":"CustomLogger/main.go:39","msg":"I'm out of Zap joke!","stacktrace":"main.main\n\t/Users/imtaebin/Documents/golang/CustomLogger/main.go:39\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:255"}
+{"level":"info","timestamp":"2022-03-17T19:28:29.931+0900","caller":"CustomLogger/main.go:36","msg":"Hello Zap!"}
+{"level":"warn","timestamp":"2022-03-17T19:28:29.932+0900","caller":"CustomLogger/main.go:37","msg":"Beware of getting Zapped! (Pun)"}
+{"level":"error","timestamp":"2022-03-17T19:28:29.932+0900","caller":"CustomLogger/main.go:38","msg":"I'm out of Zap joke!","stacktrace":"main.main\n\t/Users/imtaebin/Documents/golang/CustomLogger/main.go:38\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:255"}
+{"level":"info","timestamp":"2022-03-17T19:39:48.231+0900","caller":"CustomLogger/main.go:36","msg":"Hello Zap!"}
+{"level":"warn","timestamp":"2022-03-17T19:39:48.232+0900","caller":"CustomLogger/main.go:37","msg":"Beware of getting Zapped! (Pun)"}
+{"level":"error","timestamp":"2022-03-17T19:39:48.232+0900","caller":"CustomLogger/main.go:38","msg":"I'm out of Zap joke!","stacktrace":"main.main\n\t/Users/imtaebin/Documents/golang/CustomLogger/main.go:38\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:255"}
+{"level":"info","timestamp":"2022-03-17T19:40:12.673+0900","caller":"CustomLogger/main.go:36","msg":"Hello Zap!"}
+{"level":"warn","timestamp":"2022-03-17T19:40:12.673+0900","caller":"CustomLogger/main.go:37","msg":"Beware of getting Zapped! (Pun)"}
+{"level":"error","timestamp":"2022-03-17T19:40:12.673+0900","caller":"CustomLogger/main.go:38","msg":"I'm out of Zap joke!","stacktrace":"main.main\n\t/Users/imtaebin/Documents/golang/CustomLogger/main.go:38\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:255"}
+{"level":"info","timestamp":"2022-03-23T22:40:27.285+0900","caller":"CustomLogger/main.go:54","msg":"Hello Zap!"}
+{"level":"warn","timestamp":"2022-03-23T22:40:27.286+0900","caller":"CustomLogger/main.go:55","msg":"Beware of getting Zapped! (Pun)"}
+{"level":"error","timestamp":"2022-03-23T22:40:27.286+0900","caller":"CustomLogger/main.go:56","msg":"I'm out of Zap joke!","stacktrace":"main.main\n\t/Users/imtaebin/Documents/golang/CustomLogger/main.go:56\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:255"}
